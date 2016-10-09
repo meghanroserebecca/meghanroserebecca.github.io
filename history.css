@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: url(rainbowglitter.jpg);
+   width: 800px;
+   margin: 0 auto;
+   padding-top: 5px;
+   height: 100%;
+}
+
+header {
+    border-style: dotted;
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-size: 20px;
+    display: block;
+    width: 790px;
+}
+nav {
+    line-height:30px;
+    background-color:cyan;
+    min-height:100%;
+    width:125px;
+    display: inline-block;
+    vertical-align: top;
+    padding:5px;
+    font-size: 18px;
+}
+nav ul {
+    list-style-type: none;
+}
+a:link {
+    color: purple;
+}
+
+a:visited {
+  color: hotpink;
+}
+
+a:hover {
+  color: yellow;
+}
+section {
+    background-color: pink;
+    width: 500px;
+    display: inline-block;
+    padding: 5px;
+}
+img {
+  margin: 15px;
+  display: block;
+}
+
+iframe {
+  margin: 15px;
+  display: block;
+  position: center;
+}
+
+.help {
+  color: purple;
+}
+
+aside {
+  background-color: cyan;
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 18px;
+  min-height: 100%;
+  padding: 8px;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    display: block;
+}

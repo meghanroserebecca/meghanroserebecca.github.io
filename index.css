@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: rgb(145,27,121);
+  color: white;
+  height: 100%;
+  font-size: 20;
+}
+
+header {
+  padding: 30px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  line-height:;
+  background-color:green;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color:blue ;
+}
+
+section {
+  width: 80%;
+  display: inline-block;
+  background: url(rainbow-glitter-wallpaper-3.jpg) no-repeat center center fixed;
+  text-align: center;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: 20;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+
+ aside a {
+   color: white;
+ }
+
+aside img {
+  height: 40px;
+  width: 40px;
+}
